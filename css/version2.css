@@ -52,26 +52,20 @@ article {
     max-width: 100%;
     padding: 2em;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
 }
 
 #cougar {
     background-color: #B26219;
-    display-flex;
-    align-items: center;
 }
 
 #lion {
     background-color: #FFBD82;
-    display-flex;
-    align-items: center;
 }
 
 #tiger {
     background-color: #FFD5AE;
-    display-flex;
-    align-items: center;
 }
 
 section {
@@ -79,13 +73,12 @@ section {
 }
 
 .text {
-    background-color: #fff;
     padding: 2em;
     line-height: 1.5em;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
 }
 
 footer {
@@ -127,16 +120,6 @@ header a {
 header a:hover {
     color: #BDEAEF;
 }
-
-
-#cougar a {
-    color: #FFF;
-}
-
-#cougar a:hover {
-    color: #000000;
-}
-
 
 a {
     color: #13363D;

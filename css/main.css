@@ -58,19 +58,16 @@ article {
 
 #cougar {
     background-color: #B26219;
-    display-flex;
     align-items: center;
 }
 
 #lion {
     background-color: #FFBD82;
-    display-flex;
     align-items: center;
 }
 
 #tiger {
     background-color: #FFD5AE;
-    display-flex;
     align-items: center;
 }
 
@@ -126,15 +123,6 @@ header a {
 
 header a:hover {
     color: #BDEAEF;
-}
-
-
-#cougar a {
-    color: #FFF;
-}
-
-#cougar a:hover {
-    color: #000000;
 }
 
 
