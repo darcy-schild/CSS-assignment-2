@@ -19,6 +19,7 @@ body {
 
 img {
     max-width: 100%; /* DO NOT delete or change this line */
+    margin-top: 3.5rem;
 }
 
 header {
@@ -50,10 +51,11 @@ nav ul li a {
 article {
     color: #000;
     max-width: 100%;
-    padding: 2em;
+    padding: 2rem;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: stretch;
 }
 
 #cougar {
@@ -73,8 +75,8 @@ section {
 }
 
 .text {
-    padding: 2em;
-    line-height: 1.5em;
+    padding: 2rem;
+    line-height: 1.5rem;
 }
 
 h2 {
@@ -82,7 +84,7 @@ h2 {
 }
 
 footer {
-    padding: 1em;
+    padding: 1rem;
 }
 
 footer p {
