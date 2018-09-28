@@ -19,7 +19,6 @@ body {
 
 img {
     max-width: 100%; /* DO NOT delete or change this line */
-    margin-top: 3.5rem;
 }
 
 header {
@@ -54,8 +53,7 @@ article {
     padding: 2rem;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: stretch;
+    justify-content: center;
 }
 
 #cougar {
@@ -77,6 +75,11 @@ section {
 .text {
     padding: 2rem;
     line-height: 1.5rem;
+}
+
+.photo {
+    margin-top: 3.5rem;
+    margin-left: 1rem;
 }
 
 h2 {
